@@ -25,58 +25,9 @@ const App = () => {
   return (
     <BrowserRouter>
       <div id="Wrapper">
-        {/*  <nav>
-          <ul>
-            <li>
-              <NavLink to="/basic" className="selected">
-                Basic
-              </NavLink>
-            </li>
-            <li>
-              <NavLink to="/popover-editor" className="selected">
-                Popover Editor
-              </NavLink>
-            </li>
-            <li>
-              <NavLink to="/suggestions" className="selected">
-                Suggestions
-              </NavLink>
-            </li>
-            <li>
-              <NavLink to="/markdown-shortcuts" className="selected">
-                Markdown Shortcuts
-              </NavLink>
-            </li>
-            <li>
-              <NavLink to="/syntax-highlighting" className="selected">
-                Syntax Highlighting
-              </NavLink>
-            </li>
-            <li>
-              <NavLink to="/placeholder-text" className="selected">
-                Placeholder Text
-              </NavLink>
-            </li>
-            <li>
-              <NavLink to="/long-document-performance" className="selected">
-                Long Document Performance
-              </NavLink>
-            </li>
-            <li>
-              <NavLink to="/read-only-mode" className="selected">
-                Read-only Mode
-              </NavLink>
-            </li>
-            <li>
-              <NavLink to="/read-only-mode-v2" className="selected">
-                Read-only Mode v2
-              </NavLink>
-            </li>
-          </ul>
-        </nav> */}
         <Routes>
           <Route
-            path="/basic"
+            path="/"
             element={
               <Tiptap
                 content={BASIC_CONTENT}
