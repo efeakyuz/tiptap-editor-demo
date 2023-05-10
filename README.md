@@ -1,6 +1,6 @@
 # tiptap-editor-demo
 
-Image view modal for react-native
+Tiptap editor demo
 
 ## Installation
 
