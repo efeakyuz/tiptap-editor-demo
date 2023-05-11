@@ -2,6 +2,7 @@ import React from "react";
 import { useEditor, EditorContent } from "@tiptap/react";
 import StarterKit from "@tiptap/starter-kit";
 import Typography from "@tiptap/extension-typography";
+import Image from "@tiptap/extension-image";
 import Link from "@tiptap/extension-link";
 import CodeBlockLowlight from "@tiptap/extension-code-block-lowlight";
 import TaskList from "@tiptap/extension-task-list";
@@ -32,6 +33,7 @@ type TiptapProps = {
   placeholder?: string;
   withToolbar?: boolean;
   withPopover?: boolean;
+  withImage?: boolean;
   withTypographyExtension?: boolean;
   withLinkExtension?: boolean;
   withCodeBlockLowlightExtension?: boolean;
@@ -46,6 +48,7 @@ type TiptapProps = {
 function Tiptap({
   content = "",
   editable = true,
+  withImage = true,
   placeholder = "Type '/' for actions…",
   withToolbar = false,
   withPopover = false,
@@ -74,6 +77,13 @@ function Tiptap({
       Link.configure({
         linkOnPaste: false,
         openOnClick: false,
+      })
+    );
+  }
+  if (withImage) {
+    extensions.push(
+      Image.configure({
+        inline: true,
       })
     );
   }

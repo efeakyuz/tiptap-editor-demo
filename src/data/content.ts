@@ -1,14 +1,16 @@
 const BASIC_CONTENT = `
 <h1><span data-emoji-replacer=""><img src="https://twemoji.maxcdn.com/v/latest/svg/1f514.svg" alt="🔔" class="emoji" draggable="false"></span> Eski Pakistan Başbakanı İmran Han tutuklandı</h1>
 <h2>Parti yetkilileri, Han'ın yolsuzluk davasıyla ilgili suçlamalar nedeniyle tutuklandığını açıkladı.</h2>
-<p></p>
-<p><strong>Eski Pakistan Başbakanı İmran Han, </strong>başkent İslamabad'daki Yüksek Mahkeme önünde paramiliter yetkililer tarafından <a target="_blank" rel="noopener noreferrer nofollow" href="https://link.aposto.com/click?uri=aHR0cHM6Ly9saW5rLmFwb3N0by5jb20vY2xpY2s/c291cmNlPXVuZGVmaW5lZCZzdWJzY3JpYmVyPXVuZGVmaW5lZCZzdG9yeT02NDVhMjM0ZDVkZDEyZTAwMDdkNjdiMzQmdXJsPWh0dHBzJTI1M0ElMjUyRiUyNTJGd3d3LWJiYy1jb20uY2RuLmFtcHByb2plY3Qub3JnJTI1MkZjJTI1MkZzJTI1MkZ3d3cuYmJjLmNvbSUyNTJGbmV3cyUyNTJGd29ybGQtYXNpYS02NTUzMTY0OC5hbXA="><strong>tutuklandı.</strong></a> </p>
+<p>
+  <img src="https://images.aposto.com/2022/10/1/1669626579232.png">
+</p>
+<p><strong>Eski Pakistan Başbakanı İmran Han, </strong>başkent İslamabad'daki Yüksek Mahkeme önünde paramiliter yetkililer tarafından <a target="_blank" rel="noopener noreferrer nofollow" href="https://link.aposto.com/click?uri=aHR0cHM6Ly9saW5rLmFwb3N0by5jb20vY2xpY2s/c291cmNlPXVuZGVmaW5lZCZzdWJzY3JpYmVyPXVuZGVmaW5lZCZzdG9yeT02NDVhMjM0ZDVkZDEyZTAwMDdkNjdiMzQmdXJsPWh0dHBzJTI1M0ElMjUyRiUyNTJGd3d3LWJiYy1jb20uY2RuLmFtcHByb2plY3Qub3JnJTI1MkZjJTI1MkZzJTI1MkZ3d3cuYmJjLmNvbSUyNTJGbmV3cyUyNTJGd29ybGQtYXNpYS02NTUzMTY0OC5hbXA="><strong>tutuklandı.</strong></a></p>
 <ul>
   <li>
-    <p>Han'ın Tahreek-e-Insaf partisinden yetkililer, 72 yaşındaki eski başbakanın yolsuzluk davasıyla ilgili suçlamalar nedeniyle tutuklandığını açıkladı. </p>
+    <p>Han'ın Tahreek-e-Insaf partisinden yetkililer, 72 yaşındaki eski başbakanın yolsuzluk davasıyla ilgili suçlamalar nedeniyle tutuklandığını açıkladı.</p>
   </li>
 </ul>
-<p><strong>Detaylar:</strong> Parti yetkilileri, Han'ın ülkenin yolsuzlukla mücadele kurumu Ulusal Hesap Verebilirlik Bürosu ajanları tarafından mahkeme binasında tutuklandığını, daha sonra da zırhlı personel taşıyıcılarındaki kuvvetler tarafından gözaltına alındığını açıkladı. </p>
+<p><strong>Detaylar:</strong> Parti yetkilileri, Han'ın ülkenin yolsuzlukla mücadele kurumu Ulusal Hesap Verebilirlik Bürosu ajanları tarafından mahkeme binasında tutuklandığını, daha sonra da zırhlı personel taşıyıcılarındaki kuvvetler tarafından gözaltına alındığını açıkladı.</p>
 <p><strong>Ne olmuştu?</strong> Han, Nisan 2022'de ülkede yapılan güven oylaması sonucunda görevden alınmıştı. Görevden alınmasının siyasi amaçlı, yasadışı ve bir Batı komplosu olduğunu iddia eden Han, Başbakan Şahbaz Şerif hükümetine karşı kampanya yürütmüş ve erken seçim talep etmişti.</p>
 <ul>
   <li>
